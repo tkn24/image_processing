@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "image_processing", "WindowsFormsApp3\image_processing.csproj", "{CE2418EA-C1E4-4EFC-ADB4-277EFB341AD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE2418EA-C1E4-4EFC-ADB4-277EFB341AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2418EA-C1E4-4EFC-ADB4-277EFB341AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2418EA-C1E4-4EFC-ADB4-277EFB341AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2418EA-C1E4-4EFC-ADB4-277EFB341AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0434722B-A778-4B87-8B8C-38A9EA4009C6}
+	EndGlobalSection
+EndGlobal
